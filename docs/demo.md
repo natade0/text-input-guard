@@ -513,3 +513,49 @@ attach(input, {
 	}
 });
 ```
+
+## jQuery 対応
+
+jQuery を使用したプロジェクトでも、jQuery 1.12 又は jQuery 2.2 移行であれば組み込むことが可能です。
+`jQuery オブジェクト` は複数の要素を含む可能性があることから `attach` は使用できませんが、`attachAll` の第1引数に `jQuery` オブジェクトを入れることができます。
+
+`attachAll` の `onChange` のコールバック関数の引数には `Guard` 型が入るため、この値からさらなる処理を記載できます。
+
+<iframe
+  :src="withBase('/demo/jquery-test.html')"
+  style="width: 100%; border-style: none;"
+></iframe>
+
+```html
+<input id="price" type="text" inputmode="number" style="text-align: right" />
+```
+
+```js
+import { bindGuardDebug } from "./js/guard-debug.js";
+import { attachAll, rules } from "./lib/text-input-guard.min.js";
+
+const input = $("#price"); // jQuery オブジェクト
+const output = document.getElementById("output");
+
+const guards = attachAll(input, {
+	rules: [
+		rules.numeric({
+			allowFullWidth: true,
+			allowMinus: true,
+			allowDecimal: false,
+			allowEmpty: true
+		}),
+		rules.digits({
+			int: 10
+		}),
+		rules.comma()
+	],
+	onChange: (guard) => {
+		console.log(`rawValue: ${guard.getRawValue()}, displayValue: ${guard.getDisplayValue()}`);
+	}
+});
+
+const guard = guards.getGuards()[0];
+console.log(`rawElement: ${guard.getRawElement()}`);
+console.log(`displayElement: ${guard.getDisplayElement()}`);
+```
