@@ -64,7 +64,7 @@ const guard = group.getGuards()[0];
 ```
 
 第1引数は `Iterable<HTMLInputElement|HTMLTextAreaElement>` のため、
-[jQuery 1.12 / 2.2](https://blog.jquery.com/2016/01/08/jquery-2-2-and-1-12-released/) 以降の jQuery オブジェクトを入れることが出来ます。
+[jQuery 1.12 / 2.2](https://blog.jquery.com/2016/01/08/jquery-2-2-and-1-12-released/) 以降の jQuery オブジェクトを入れることができます。
 
 ```js
 const group = attachAll($(".price"), {
