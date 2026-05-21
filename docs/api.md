@@ -63,6 +63,23 @@ const group = attachAll(document.querySelectorAll(".price"), {
 const guard = group.getGuards()[0];
 ```
 
+第1引数は `Iterable<HTMLInputElement|HTMLTextAreaElement>` のため、
+[jQuery 1.12 / 2.2](https://blog.jquery.com/2016/01/08/jquery-2-2-and-1-12-released/) 以降の jQuery オブジェクトを入れることが出来ます。
+
+```js
+const group = attachAll($(".price"), {
+	rules: [
+		rules.numeric({ allowFullWidth: true, allowMinus: true, allowDecimal: true }),
+		rules.digits({ int: 8, frac: 2 }),
+		rules.comma()
+	],
+	onChange: (guard) => {
+		console.log(`rawValue: ${guard.getRawValue()}`);
+		console.log(`displayValue: ${guard.getDisplayValue()}`);
+	}
+});
+```
+
 ### autoAttach()
 
 ```ts
