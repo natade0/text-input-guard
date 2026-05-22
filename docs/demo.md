@@ -527,7 +527,7 @@ jQuery を使用したプロジェクトでも、jQuery 1.12 又は jQuery 2.2 �
 ></iframe>
 
 ```html
-<input id="price" type="text" inputmode="number" style="text-align: right" />
+<input id="price" type="text" inputmode="numeric" style="text-align: right" />
 ```
 
 ```js
