@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://natade-jp.github.io/text-input-guard/ogp-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://natade-jp.github.io/text-input-guard/ogp-light.svg">
-    <img src="https://natade-jp.github.io/text-input-guard/ogp-light.svg" width="700" alt="TextInputGuard">
+    <source media="(prefers-color-scheme: dark)" srcset="https://natade0.github.io/text-input-guard/ogp-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://natade0.github.io/text-input-guard/ogp-light.svg">
+    <img src="https://natade0.github.io/text-input-guard/ogp-light.svg" width="700" alt="TextInputGuard">
   </picture>
 </p>
 
@@ -14,4 +14,4 @@ TextInputGuard は、日本語入力環境を前提に設計された入力補�
 
 詳しいドキュメントはこちら
 
-https://natade-jp.github.io/text-input-guard/
+https://natade0.github.io/text-input-guard/
