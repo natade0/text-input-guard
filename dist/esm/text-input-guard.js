@@ -2,7 +2,7 @@
  * The script is part of TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -301,7 +301,7 @@ class SwapState {
  * The script is part of TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -2160,7 +2160,7 @@ function parseDatasetEnumList(v, allowed, defaultValue) {
  * The script is part of TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -2334,7 +2334,7 @@ class InputGuardAutoAttach {
  * The script is part of TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -2648,7 +2648,7 @@ numeric.fromDataset = function fromDataset(dataset, _el) {
  * The script is part of TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -3051,7 +3051,7 @@ digits.fromDataset = function fromDataset(dataset, _el) {
  * The script is part of TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -3128,7 +3128,7 @@ comma.fromDataset = function fromDataset(dataset, _el) {
  * The script is part of TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -3226,7 +3226,7 @@ imeOff.fromDataset = function fromDataset(dataset, _el) {
  * The script is part of Mojix for TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -4291,7 +4291,7 @@ Unicode.is_initmap = false;
  * The script is part of Mojix for TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -4544,7 +4544,7 @@ class SJIS {
  * The script is part of Mojix for TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -4917,7 +4917,7 @@ class CP932 {
  * The script is part of Mojix for TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -5067,7 +5067,7 @@ class Encode {
  * The script is part of Mojix for TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -5698,7 +5698,7 @@ class Japanese {
  * The script is part of Mojix for TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -5950,7 +5950,7 @@ class MojiAnalyzer {
  * The script is part of Mojix for TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -6313,7 +6313,7 @@ class Mojix {
  * The script is part of TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -6419,7 +6419,7 @@ kana.fromDataset = function fromDataset(dataset, _el) {
  * The script is part of TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -6507,7 +6507,7 @@ ascii.fromDataset = function fromDataset(dataset, _el) {
  * The script is part of TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -6925,7 +6925,7 @@ filter.fromDataset = function fromDataset(dataset, _el) {
  * The script is part of TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -7152,7 +7152,7 @@ length.fromDataset = function fromDataset(dataset, _el) {
  * The script is part of TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -7279,7 +7279,7 @@ width.fromDataset = function fromDataset(dataset, _el) {
  * The script is part of TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -7514,7 +7514,7 @@ bytes.fromDataset = function fromDataset(dataset, _el) {
  * The script is part of TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -7608,7 +7608,7 @@ prefix.fromDataset = function fromDataset(dataset, _el) {
  * The script is part of TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -7702,7 +7702,7 @@ suffix.fromDataset = function fromDataset(dataset, _el) {
  * The script is part of TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -7753,7 +7753,7 @@ trim.fromDataset = function fromDataset(dataset, _el) {
  * - UMD: exposed to global (e.g. window.TextInputGuard) with the same shape
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -7804,11 +7804,11 @@ const rules = {
 
 /**
  * バージョン（ビルド時に置換したいならここを差し替える）
- * 例: rollup replace で ""1.3.0"" を package.json の version に置換
+ * 例: rollup replace で ""1.3.1"" を package.json の version に置換
  */
 // @ts-ignore
 // eslint-disable-next-line no-undef
-const version = "1.3.0" ;
+const version = "1.3.1" ;
 
 /**
  * UMD公開時のグローバルオブジェクト

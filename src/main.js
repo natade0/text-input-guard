@@ -4,7 +4,7 @@
  * - UMD: exposed to global (e.g. window.TextInputGuard) with the same shape
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT

@@ -444,7 +444,7 @@ type DigitsRuleOptions = {
  * The script is part of TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -788,7 +788,7 @@ type BytesRuleOptions = {
  * The script is part of TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -842,7 +842,7 @@ type PrefixRuleOptions = {
  * The script is part of TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT
@@ -896,7 +896,7 @@ type SuffixRuleOptions = {
  * The script is part of TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT

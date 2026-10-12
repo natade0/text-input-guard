@@ -2,7 +2,7 @@
  * The script is part of TextInputGuard.
  *
  * AUTHOR:
- *  natade-jp (https://github.com/natade-jp)
+ *  natade (https://github.com/natade0)
  *
  * LICENSE:
  *  The MIT license https://opensource.org/licenses/MIT

@@ -3,12 +3,12 @@ export default {
 	title: "TextInputGuard",
 	description: "IME入力でも安定したフォーム入力を実現する日本語向け入力制御ライブラリ",
 	sitemap: {
-		hostname: "https://natade-jp.github.io"
+		hostname: "https://natade0.github.io"
 	},
 	head: [
 		["meta", { name: "google-site-verification", content: "ksPQkQSREAQ21SYqaCRWRwwRfjrk-vdkLOwBDTDhCpA" }],
-		["meta", { property: "og:url", content: "https://natade-jp.github.io/text-input-guard/" }],
-		["meta", { property: "og:image", content: "https://natade-jp.github.io/text-input-guard/ogp.jpg" }],
+		["meta", { property: "og:url", content: "https://natade0.github.io/text-input-guard/" }],
+		["meta", { property: "og:image", content: "https://natade0.github.io/text-input-guard/ogp.jpg" }],
 		["meta", { property: "og:type", content: "website" }],
 		["meta", { property: "og:title", content: "TextInputGuard" }],
 		["meta", { property: "og:description", content: "IME入力でも安定したフォーム入力を実現する日本語向け入力制御ライブラリ" }]
@@ -28,7 +28,7 @@ export default {
 			{ text: "npm", link: "https://www.npmjs.com/package/text-input-guard" }
 		],
 		socialLinks: [
-			{ icon: "github", link: "https://github.com/natade-jp/text-input-guard" }
+			{ icon: "github", link: "https://github.com/natade0/text-input-guard" }
 		],
 		outline: {
 			level: [2, 4] // h2...h4 を表示

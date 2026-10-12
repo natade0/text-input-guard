@@ -8,7 +8,7 @@ test("prefix - prefix(): rule shape（name/targets/handlers）", () => {
 	const rule = prefix({ text: "¥" });
 
 	assert.equal(rule.name, "prefix");
-	assert.deepEqual(rule.targets, ["input"]);
+	assert.deepStrictEqual(rule.targets, ["input", "textarea"]);
 	assert.equal(typeof rule.normalizeStructure, "function");
 	assert.equal(typeof rule.format, "function");
 });

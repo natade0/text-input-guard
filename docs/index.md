@@ -21,7 +21,7 @@ hero:
           link: /api
         - theme: alt
           text: GitHub
-          link: https://github.com/natade-jp/text-input-guard
+          link: https://github.com/natade0/text-input-guard
 ---
 
 <script setup>

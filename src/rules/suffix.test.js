@@ -8,7 +8,7 @@ test("suffix - suffix(): rule shape（name/targets/handlers）", () => {
 	const rule = suffix({ text: "円" });
 
 	assert.equal(rule.name, "suffix");
-	assert.deepEqual(rule.targets, ["input"]);
+	assert.deepStrictEqual(rule.targets, ["input", "textarea"]);
 	assert.equal(typeof rule.normalizeStructure, "function");
 	assert.equal(typeof rule.format, "function");
 });

@@ -8,7 +8,7 @@
 	 * The script is part of TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -307,7 +307,7 @@
 	 * The script is part of TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -2166,7 +2166,7 @@
 	 * The script is part of TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -2340,7 +2340,7 @@
 	 * The script is part of TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -2654,7 +2654,7 @@
 	 * The script is part of TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -3057,7 +3057,7 @@
 	 * The script is part of TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -3134,7 +3134,7 @@
 	 * The script is part of TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -3232,7 +3232,7 @@
 	 * The script is part of Mojix for TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -4297,7 +4297,7 @@
 	 * The script is part of Mojix for TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -4550,7 +4550,7 @@
 	 * The script is part of Mojix for TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -4923,7 +4923,7 @@
 	 * The script is part of Mojix for TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -5073,7 +5073,7 @@
 	 * The script is part of Mojix for TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -5704,7 +5704,7 @@
 	 * The script is part of Mojix for TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -5956,7 +5956,7 @@
 	 * The script is part of Mojix for TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -6319,7 +6319,7 @@
 	 * The script is part of TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -6425,7 +6425,7 @@
 	 * The script is part of TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -6513,7 +6513,7 @@
 	 * The script is part of TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -6931,7 +6931,7 @@
 	 * The script is part of TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -7158,7 +7158,7 @@
 	 * The script is part of TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -7285,7 +7285,7 @@
 	 * The script is part of TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -7520,7 +7520,7 @@
 	 * The script is part of TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -7614,7 +7614,7 @@
 	 * The script is part of TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -7708,7 +7708,7 @@
 	 * The script is part of TextInputGuard.
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -7759,7 +7759,7 @@
 	 * - UMD: exposed to global (e.g. window.TextInputGuard) with the same shape
 	 *
 	 * AUTHOR:
-	 *  natade-jp (https://github.com/natade-jp)
+	 *  natade (https://github.com/natade0)
 	 *
 	 * LICENSE:
 	 *  The MIT license https://opensource.org/licenses/MIT
@@ -7810,11 +7810,11 @@
 
 	/**
 	 * バージョン（ビルド時に置換したいならここを差し替える）
-	 * 例: rollup replace で ""1.3.0"" を package.json の version に置換
+	 * 例: rollup replace で ""1.3.1"" を package.json の version に置換
 	 */
 	// @ts-ignore
 	// eslint-disable-next-line no-undef
-	const version = "1.3.0" ;
+	const version = "1.3.1" ;
 
 	/**
 	 * UMD公開時のグローバルオブジェクト
